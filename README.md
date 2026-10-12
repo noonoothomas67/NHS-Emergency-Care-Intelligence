@@ -1,6 +1,6 @@
 # NHS Emergency Care Intelligence: Performance Analysis and Demand Forecasting (2019–2026)
 
-Project Overview
+# Project Overview
 
 This project analyses seven years of NHS England Accident & Emergency (A&E) attendance and emergency admission data, covering April 2019 to March 2026.
 
@@ -8,7 +8,7 @@ The objective is to evaluate emergency care demand, investigate waiting-time per
 
 The project combines Python, statistical forecasting, and Power BI to transform publicly available NHS data into actionable insights.
 
-Key Objectives
+# Key Objectives
 
 - Analyse historical A&E attendance and emergency admission trends.
 - Evaluate NHS four-hour waiting-time performance.
@@ -17,7 +17,7 @@ Key Objectives
 - Compare time-series forecasting models for predicting A&E demand.
 - Develop interactive Power BI dashboards to communicate findings.
 
-Tools and Technologies
+# Tools and Technologies
 
 - Python: Pandas, NumPy, data processing and exploratory analysis.
 - Time-Series Forecasting: Holt-Winters, SARIMA and Seasonal Naive.
@@ -26,11 +26,11 @@ Tools and Technologies
 - Data Source: NHS England A&E Attendances and Emergency Admissions monthly publications.
 
 
- Key Findings
+# Key Findings
 
 The analysis covers 84 months of NHS England emergency care data, from April 2019 to March 2026.
 
-Emergency Care Performance
+# Emergency Care Performance
 
 - 168.96 million A&E attendances were recorded across the study period.
 - 43.28 million emergency admissions were recorded.
@@ -41,7 +41,7 @@ Emergency Care Performance
 
 These findings highlight the scale of emergency care demand and the importance of monitoring waiting-time performance and admission delays.
 
-Forecasting Model Performance
+# Forecasting Model Performance
 
 Four forecasting approaches were evaluated against observed monthly A&E attendance figures for the 2025/26 financial year.
 
@@ -57,7 +57,7 @@ Holt-Winters achieved the lowest forecasting error among the evaluated models.
 The 2025/26 period was also used during model refinement. Consequently, these results represent retrospective model evaluation rather than performance on a fully independent holdout dataset.
 
 
-Power BI Dashboard
+# Power BI Dashboard
 
 An interactive four-page Power BI report was developed to communicate NHS emergency care performance, operational pressures and forecasting results.
 
@@ -100,7 +100,7 @@ Presents the results of the time-series forecasting analysis, including:
 The forecasting dashboard evaluates predictions for April 2025–March 2026 and does not represent a forecast of future demand beyond March 2026.
 
 
-Repository Structure
+# Repository Structure
 
 The project is organised into four main folders:
 
