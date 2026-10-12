@@ -141,16 +141,17 @@ The following screenshots showcase the four interactive dashboard pages develope
 
 ### 1. Executive Overview
 
-![Executive Overview](Power%20BI/screenshots/01_Executive_Overview.png)
+![Executive Overview](Power%20BI/screenshots/01_Executive_Overview.png.png)
 
 ### 2. Provider Performance
 
-![Provider Performance](Power%20BI/screenshots/02_Provider_Performance.png)
+![Provider Performance](Power%20BI/screenshots/02_Provider_Performance.png.png)
 
 ### 3. Emergency Care Pressure
 
-![Emergency Care Pressure](Power%20BI/screenshots/03_Emergency_Care_Pressure.png)
+![Emergency Care Pressure](Power%20BI/screenshots/03_Emergency_Care_Pressure.png.png)
+
 
 ### 4. Demand Forecasting
 
-![Demand Forecasting](Power%20BI/screenshots/04_Demand_Forecasting.png)
+![Demand Forecasting](Power%20BI/screenshots/04_Demand_Forecasting.png.png)
